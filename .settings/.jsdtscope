@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry excluding="**/bower_components/*|**/node_modules/*|**/*.min.js" kind="src" path="WebContent"/>
+	<classpathentry kind="lib" path="C:/Users/Abhishek/Desktop/project/taxi booking/WebContent/js/camera.js"/>
+	<classpathentry kind="lib" path="C:/Users/Abhishek/Desktop/project/taxi booking/WebContent/js/jquery.easing.1.3.js"/>
+	<classpathentry kind="lib" path="C:/Users/Abhishek/Desktop/project/taxi booking/WebContent/js/jquery.equalheights.js"/>
+	<classpathentry kind="lib" path="C:/Users/Abhishek/Desktop/project/taxi booking/WebContent/js/jquery.js"/>
+	<classpathentry kind="lib" path="C:/Users/Abhishek/Desktop/project/taxi booking/WebContent/js/jquery.mobilemenu.js"/>
+	<classpathentry kind="lib" path="C:/Users/Abhishek/Desktop/project/taxi booking/WebContent/js/jquery.ui.totop.js"/>
+	<classpathentry kind="lib" path="C:/Users/Abhishek/Desktop/project/taxi booking/WebContent/js/jquery-migrate-1.2.1.js"/>
+	<classpathentry kind="lib" path="C:/Users/Abhishek/Desktop/project/taxi booking/WebContent/js/owl.carousel.js"/>
+	<classpathentry kind="lib" path="C:/Users/Abhishek/Desktop/project/taxi booking/WebContent/js/script.js"/>
+	<classpathentry kind="lib" path="C:/Users/Abhishek/Desktop/project/taxi booking/WebContent/js/superfish.js"/>
+	<classpathentry kind="con" path="org.eclipse.wst.jsdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.wst.jsdt.launching.WebProject">
+		<attributes>
+			<attribute name="hide" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.wst.jsdt.launching.baseBrowserLibrary"/>
+	<classpathentry kind="output" path=""/>
+</classpath>
